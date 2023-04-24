@@ -1,4 +1,4 @@
-This repository provides a project which is used to make a model that can help in predicting the stress level of the nurses who were working in real-world hospital settings during COVID-19. Millions of data was being collected from only 15 nurses and we build a model by using this dataset.
+This repository provides a project which is used to make a model that can help in predicting the stress level of the nurses who were working in real-world hospital settings during COVID-19. Millions of data was being collected from only 15 nurses and we build a model by using this dataset. <br/>
 1: Instructions on how to use the code <br/>
 2: This is a research based project for predicting the stress level of nurses during the COVID-19 outbreak using a machine learning model (Random Forest) and can be found at the given link https://www.nature.com/articles/s41597-022-01361-y#Tab1 <br/>
 3: The notebook file in the repository named FinalCode.ipynb can be run in google collab, the reason for google collab is that there is a huge data around 12 Million. <br/>
